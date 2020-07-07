@@ -1,0 +1,10 @@
+#id1{
+  background-image: url("src/assets/second.jpg");
+  /* height:1080px;
+  width: 1920px; */
+  height: 100vh;
+  background-repeat: no-repeat;
+ 
+  width: 100vw;
+}
+
